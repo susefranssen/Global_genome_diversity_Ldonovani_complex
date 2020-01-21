@@ -128,7 +128,7 @@ if ("format" %in% mode)
     print(chr)
     print("Read formatted")
     gtStampp=read.table(file=paste0("tmp/LmjF.",chr,".txt"), header=T) # data.frame object
-    if (file.exists(paste0("tmp/LmjF.",chr,".txt"))) 
+    if (file.exists(paste0("tmp/LmjF.",chr,".txt")))
     {
       file.remove(paste0("tmp/LmjF.",chr,".txt"))
     }

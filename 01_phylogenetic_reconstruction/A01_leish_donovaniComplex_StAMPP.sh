@@ -39,6 +39,10 @@ bsub -q $queue -o ${name3}.o -e ${name3}.e -J ${name3} \
 Rscript ~/00scripts/leish_donovaniComplex/A01_leish_donovaniComplex_StAMPP.R constree dphC
 
 
+# run window analysis
+# A01_leish_donovaniComplex_StAMPP_window.R
+
+
 # bootstrap on constree with windows
 memory=4000
 # plotting cons trees
