@@ -7,16 +7,17 @@ mode <- args[1] # c("format","chrtree","constree")
 dph.tag <- args[2] # dphA, dphB
 
 
+# run with the mode parameters in the following order
+# mode="format"
+# mode="chrtree"
+# mode="constree"
 
 
 
-
+###################
 # mode="format"
 # dph.tag="dphC"
-
-
-
-
+#
 print("chosen parameters:")
 print(paste("mode", mode))
 print(paste("dph.tag", dph.tag))
