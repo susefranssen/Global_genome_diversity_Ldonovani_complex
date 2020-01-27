@@ -588,8 +588,6 @@ print_sample_hets_win <-function(samples=c("CUK10","CUK8","CUK3"), color=rainbow
 # in order to read it in as done in the cmd below files have to be unzipped, combined and header information within the file removed
 data<-read.table("../data/snp_files/snps.filt.leish_global.linj.complex.vcflike.txt", comment.char="", header=T)
 dat <-data.table(data)
-# sample.info<-data.table(cbind(colnames(het.info)[1:151],groups,group.col))
-# setnames(sample.info, "V1", c("sample"))
 load("../01_phylogenetic_reconstruction/sample.info_NEWsubgroups.RData")
 #
 # follow three assignments take several minutes to caluclate, if needed repeatedly should once be calculated and saved as .RData file
@@ -721,6 +719,8 @@ het.wins <-data.table(het.wins)
 setnames(het.wins, colnames(het.wins), colnames(het.info[,1:151,with=FALSE]))
 het.wins[,chr:=aa$chr]
 het.wins[,w10kb:=aa$w10kb]
+
+save(het.wins,file="het.wins.RData") # information needed in 06_hybridisation_signatures
 
 # for(i in 1:151)
 # {
