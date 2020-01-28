@@ -1,5 +1,5 @@
 # Global_genome_diversity_Ldonovani_complex
-Scripts and data files corresponding to the manuscript "Global genome diversity of the Leishmania donovani complex".
+Scripts and data files corresponding to the manuscript "**Global genome diversity of the Leishmania donovani complex**".
 
 The manuscript is available at XXX and the previous version is avavilable on bioRxiv https://www.biorxiv.org/content/10.1101/710145v1.
 
