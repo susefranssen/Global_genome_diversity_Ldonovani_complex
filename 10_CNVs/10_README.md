@@ -9,7 +9,7 @@ which requires **a14_gene_cov_line.sh**
 and the R script:
 **a10_raw_somies.r**
 
-Those file are required as input with the following R script, however, intermediate results files can also be loaded from within the r script:
+Those file are required as input with the following R script, however, intermediate results files can also be loaded from within the R script:
 
 **a14_genome_cov.r**  identification and plotting of large indel
 
@@ -21,7 +21,7 @@ Those file are required as input with the following R script, however, intermedi
 ".sh" scripts on the console were run first but are dependent on the file structure of the server they were run:
 **a18_variation_known_candidate_loci.sh**
 
-Those file are required as input with the following R script, however, intermediate results files can also be loaded from within the r script:
+Those file are required as input with the following R script, however, intermediate results files can also be loaded from within the R script:
 
 **a18_variation_known_candidate_loci.r**  plotting of coverage around drug resistance loci in isolates harbouring variation
 

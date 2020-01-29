@@ -15,7 +15,9 @@ Examples files of this type are provided in:data/LD_file_examples
 Those file are required as input with the following R script:
 
 **a04_LD_dist_02_groups.r**  within chromosomes, data by group
+
 **a04_LD_dist_03_groups.r**  within chromosomes, merge group data
+
 **a04_LD_dist_04_groups.r**  between chromsomes, plotting including between and within chr LD
 
 
