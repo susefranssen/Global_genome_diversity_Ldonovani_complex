@@ -9,9 +9,6 @@ library(ape)
 
 setwd("~/work/Leish_donovaniComplex/MS01_globalDiversity_Ldonovani/github_scripts/05_heterozygosities/")
 
-load("../01_phylogenetic_reconstruction/sample.info_NEWsubgroups.RData")
-
-
 
 #-----------------------------------
 # functions
