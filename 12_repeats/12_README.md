@@ -3,7 +3,7 @@
 
 # Repeat annotation
 
-".sh" script on the console was run first but is dependent on the file structure of the server they were run:
+".sh" script on the console was run first but is dependent on the file structure of the server i was run:
 **a24_repets.sh**
 
 
