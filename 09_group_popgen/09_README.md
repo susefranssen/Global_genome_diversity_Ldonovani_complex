@@ -1,7 +1,7 @@
 
 # LD by group
 
-The ".sh" script on the console was run first but is dependent on the file structure of the server it was run:
+The ".sh" script was run first but is dependent on the file structure of the server it was run:
 
 **A04_vcf_LD.sh** using the script **a04_vcflike_to_vcf.py**.
 
@@ -17,7 +17,7 @@ It creates files that are required as input in the following R script, however, 
 
 # Site frequency spectrum by group and marker SNPs (Venn diagrams)
 
-The ".sh" script on the console was run first but is dependent on the file structure of the server it was run:
+The ".sh" script was run first but is dependent on the file structure of the server it was run:
 
 **a12_group_freqs_aneuploid_vcf.sh** 
 
