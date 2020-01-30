@@ -1,11 +1,16 @@
 
 # Allele specific read coverage & phasing of chromosomes with unequal somies
 
-".sh" scripts on the console were run first but are dependent on the file structure of the server they were run:
+The ".sh" scripts on the console were run first but are dependent on the file structure of the server they were run. These are:
+
 **a09_allele_freq_phase.sh**
+
 **a09_allele_freq_phase_07line.sh**
 
-For the subsequent R analysis run **a09_allele_freq_phase.r**
+
+They create files that are required as input in the following R script, however, intermediate results files can also be loaded from within the R script:
+
+**a09_allele_freq_phase.r**
 
 
 
