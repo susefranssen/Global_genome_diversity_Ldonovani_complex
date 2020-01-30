@@ -2,7 +2,7 @@
 
 # McDonald Kreitman test
 
-The ".sh" scripts on the console were run first but are dependent on the file structure of the server they were run. These are:
+The ".sh" scripts were run first but are dependent on the file structure of the server they were run. These are:
 
 **a15_MDK-test.sh**     which requires several python scripts and a perl script (MK.pl, Holloway et al. 2007)
 
@@ -29,7 +29,7 @@ They create files that are required as input in the following R script, however,
 
 # Annotation and GO enrichment of group-specific marker SNPs
 
-The ".sh" script on the console was run first but is dependent on the file structure of the server it was run:
+The ".sh" script was run first but is dependent on the file structure of the server it was run:
 
 **a13_SNPeff_fixed_segr_cats_v38.sh**
 
