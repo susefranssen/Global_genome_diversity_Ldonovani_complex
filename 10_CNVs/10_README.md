@@ -2,7 +2,7 @@
 
 # Large CNVs and gene CNVs
 
-The ".sh" scripts on the console were run first but are dependent on the file structure of the server they were run. These are:
+The ".sh" scripts were run first but are dependent on the file structure of the server they were run. These are:
 
 **a14_gene_cov.sh**
 
@@ -21,7 +21,7 @@ Those file are required as input with the following R script, however, intermedi
 
 # Genetic variation associated with previously described drug resistance loci
 
-The ".sh" script on the console was run first but is dependent on the file structure of the server it was run:
+The ".sh" script was run first but is dependent on the file structure of the server it was run:
 
 **a18_variation_known_candidate_loci.sh**
 
