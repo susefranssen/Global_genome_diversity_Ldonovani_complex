@@ -7,7 +7,7 @@ library(circlize)
 library(ape)
 
 
-setwd("~/work/Leish_donovaniComplex/MS01_globalDiversity_Ldonovani/github_scripts/05_heterozygosities/")
+setwd("~/work/Leish_donovaniComplex/MS01_globalDiversity_Ldonovani/github_scripts/Global_genome_diversity_Ldonovani_complex/05_heterozygosities/")
 
 
 #-----------------------------------

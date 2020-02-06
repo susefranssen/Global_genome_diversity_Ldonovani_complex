@@ -3,7 +3,7 @@
 
 
 
-setwd("~/work/Leish_donovaniComplex/MS01_globalDiversity_Ldonovani/github_scripts/06_hybridisation_signatures/")
+setwd("~/work/Leish_donovaniComplex/MS01_globalDiversity_Ldonovani/github_scripts/Global_genome_diversity_Ldonovani_complex/06_hybridisation_signatures/")
 
 library(data.table)
 library(foreach)

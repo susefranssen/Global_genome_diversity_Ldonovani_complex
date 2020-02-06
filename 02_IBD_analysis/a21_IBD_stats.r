@@ -5,7 +5,7 @@ library(ggplot2)
 library(ade4)
 
 
-setwd("~/work/Leish_donovaniComplex/MS01_globalDiversity_Ldonovani/github_scripts/02_IBD_analysis/")
+setwd("~/work/Leish_donovaniComplex/MS01_globalDiversity_Ldonovani/github_scripts/Global_genome_diversity_Ldonovani_complex/02_IBD_analysis/")
 
 #-----------------------------
 # functions

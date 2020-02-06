@@ -4,7 +4,7 @@ library(foreach)
 # library(matrixStats)
 library(ggplot2)
 
-setwd("~/work/Leish_donovaniComplex/MS01_globalDiversity_Ldonovani/github_scripts/08_genetically_distinct_subclones")
+setwd("~/work/Leish_donovaniComplex/MS01_globalDiversity_Ldonovani/github_scripts/Global_genome_diversity_Ldonovani_complex/08_genetically_distinct_subclones")
 
 
 

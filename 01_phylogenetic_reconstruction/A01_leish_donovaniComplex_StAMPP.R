@@ -24,7 +24,7 @@ print(paste("dph.tag", dph.tag))
 
 
 # SNP file origin:
-setwd("~/work/Leish_donovaniComplex/MS01_globalDiversity_Ldonovani/github_scripts/01_phylogenetic_reconstruction/")
+setwd("~/work/Leish_donovaniComplex/MS01_globalDiversity_Ldonovani/github_scripts/Global_genome_diversity_Ldonovani_complex/01_phylogenetic_reconstruction/")
 
 library(data.table)
 library(foreach)

@@ -2,9 +2,9 @@
 
 # get Neis distance matrix for windows along the chromosome
 
-setwd("~/work/Leish_donovaniComplex/MS01_globalDiversity_Ldonovani/github_scripts/01_phylogenetic_reconstruction/")
+setwd("~/work/Leish_donovaniComplex/MS01_globalDiversity_Ldonovani/github_scripts/Global_genome_diversity_Ldonovani_complex/01_phylogenetic_reconstruction/")
 dir.create("window", showWarnings=F)
-setwd("~/work/Leish_donovaniComplex/MS01_globalDiversity_Ldonovani/github_scripts/01_phylogenetic_reconstruction/window/")
+setwd("window/")
 
 library(data.table)
 library(foreach)

@@ -6,7 +6,7 @@ library(GGally)
 library(gridExtra)
 
 
-setwd("~/work/Leish_donovaniComplex/MS01_globalDiversity_Ldonovani/github_scripts/04_aneuploidy")
+setwd("~/work/Leish_donovaniComplex/MS01_globalDiversity_Ldonovani/github_scripts/Global_genome_diversity_Ldonovani_complex/04_aneuploidy/")
 
 # # data tables tht will be created 
 # ploidy        # sample ploidies in different columns
